@@ -1,5 +1,5 @@
 (function () {
-  emailjs.init("9IUoGOMBtjPC1rvRZ"); // 👈 Replace with your EmailJS Public Key
+  emailjs.init("6qsAV6YtixfxtqEWS"); // 👈 Replace with your EmailJS Public Key
 })();
 
 document.getElementById("contact-form").addEventListener("submit", function (e) {
@@ -8,7 +8,7 @@ document.getElementById("contact-form").addEventListener("submit", function (e) 
   const form = this;
   const messageDiv = document.getElementById("form-message");
 
-  emailjs.sendForm("service_l15veol", "template_7oserw4", form)
+  emailjs.sendForm("service_ida14ya", "template_31qlc4t", form)
     .then(function () {
       messageDiv.innerHTML = "<div class='alert alert-success'>Message sent successfully!</div>";
       form.reset();
