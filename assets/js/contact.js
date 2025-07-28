@@ -8,7 +8,7 @@ document.getElementById("contact-form").addEventListener("submit", function (e) 
   const form = this;
   const messageDiv = document.getElementById("form-message");
 
-  emailjs.sendForm("service_l15veol", "service_l15veol", form)
+  emailjs.sendForm("service_l15veol", "template_7oserw4", form)
     .then(function () {
       messageDiv.innerHTML = "<div class='alert alert-success'>Message sent successfully!</div>";
       form.reset();
