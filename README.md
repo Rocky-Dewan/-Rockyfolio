@@ -1,12 +1,6 @@
- Rocky Dewan | AI/ML Engineer Sofware Developer
+ Rocky Dewan | Software Engineer | Exploring Software & Web Development | Proficient in Artificial Intelligence, Machine Learning & Deep Learning
 
 Hi, I'm Rocky Dewan — a passionate Computer Science undergrad from BUBT with 3+ years of experience in AI/ML engineering and 2+ years in full-stack development. I specialize in building intelligent systems, data-driven applications, and scalable cross-platform solutions.
-
-🚀 What I Do
-- 🤖 Build AI & ML models 
-- 🧠 Apply deep learning & neural networks in real-world apps
-- 🌐 Develop full-stack systems 
-- 💻 Work with Python, C++, JavaScript, React & more
 
 
  Connect with Me
